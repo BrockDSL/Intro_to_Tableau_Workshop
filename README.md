@@ -5,8 +5,10 @@
  This workshop introduces the basics of using Tableau.
  
 ## Files 
-You can follow along with this workshop by:
-- Downloading this repository using the "Clone or Download" button and selecting "Download Zip"
+You can follow along with this workshop by: 
+
+- Opening [This Link](https://github.com/BrockDSL/Intro_to_Tableau_Workshop) in a new tab
+- Downloading the repository using the "Clone or Download" button and selecting "Download Zip"
 - Unzipping the folder
 - The files used are in the "Workshop Files" folder
 
