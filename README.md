@@ -4,7 +4,7 @@
 # Intro to Tableau
  This workshop introduces the basics of using Tableau.
  
- # Files
+ # Files 
  You can follow along with this workshop by:
  - Downloading this repository using the "Clone or Download" button and selecting "Download Zip"
  - Unzipping the folder
