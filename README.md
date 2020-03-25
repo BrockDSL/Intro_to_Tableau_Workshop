@@ -2,7 +2,15 @@
 
 
 # Intro to Tableau
- Workshop files for Intro to Tableau
+ Intro to Tableau Workshop
+ 
+ The files used for this workshop are:
+ 
+ 
+ 
+ 
+ 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/AJ4x-kwf5GM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
   
 ![DSL Logo][dsllogo]  
