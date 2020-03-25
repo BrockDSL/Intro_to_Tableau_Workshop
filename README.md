@@ -11,6 +11,11 @@ You can follow along with this workshop by:
 - The files used are in the "Workshop Files" folder
 
 
+https://raw.githubusercontent.com/BrockDSL/Intro_to_Tableau_Workshop/master/Workshop%20Files/Sales.csv
+
+https://raw.githubusercontent.com/BrockDSL/Intro_to_Tableau_Workshop/master/Workshop%20Files/demographics.csv
+
+
 ## Workshop Video
  <iframe width="560" height="315" src="https://www.youtube.com/embed/AJ4x-kwf5GM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
