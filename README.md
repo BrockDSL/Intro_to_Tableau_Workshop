@@ -1,9 +1,13 @@
+![DSL Logo][dsllogo] 
 ![Tableau Logo][imglogo]
 
 
 # Intro to Tableau
- This workshop introduces the basics of using Tableau.
- 
+ This workshop will show you how to use Tableau by doing an analysis of a bike shop sales inventory.  By working through this video you will get a firm grasp of the basic functions of Tableau, be able creat meaningful visualizations using data in a CSV format, and gain a better understanding of Tableau workflows.
+
+## Getting Tableau Public
+To get Tableau Public on your personal computer, navigate to https://public.tableau.com/en-us/s/ and follow the instructions to download and install the software.
+
 ## Files 
 You can follow along with this workshop by: 
 
@@ -16,20 +20,6 @@ You can follow along with this workshop by:
 ## Workshop Video
  <iframe width="560" height="315" src="https://www.youtube.com/embed/AJ4x-kwf5GM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-## test 1
-## test 2
-## test 3
-## test 4
-## test 5
-## test 6
-## test 7
-## test 8
-## test 9
-## test 10
-## test 11
-## test 12
-## test 13
 
 ---    
   
