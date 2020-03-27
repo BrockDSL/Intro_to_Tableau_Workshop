@@ -310,7 +310,7 @@ nav {
   left:50%;
   margin-left:-580px;
   text-align: right;
-  overflow: scroll;
+  overflow-y: scroll;
 
   ul {
     list-style: none;
@@ -360,6 +360,27 @@ nav {
 }
 
 
+
+
+.navbar {
+  width: 230px;
+  position: fixed;
+  top: 220px;
+  left:50%;
+  margin-left:-580px;
+  text-align: right;
+  overflow-y: scroll;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.navbar::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE and Edge */
+.navbar {
+    -ms-overflow-style: none;
+}
 
 
 
