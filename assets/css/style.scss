@@ -305,19 +305,18 @@ small {
 nav {
 
   width: 230px;
-  height: 100%;
   position: fixed;
   top: 220px;
   left:50%;
   margin-left:-580px;
   text-align: right;
-  overflow-y: scroll;
 
   ul {
     list-style: none;
     list-style-image:none;
     font-size: 17px;
     line-height:24px;
+    overflow-y: scroll;
 
     li {
       padding: 5px 0px;
@@ -360,9 +359,6 @@ nav {
   }
 }
 
-
-
-
 .navbar {
   width: 230px;
   position: fixed;
@@ -382,6 +378,9 @@ nav {
 .navbar {
     -ms-overflow-style: none;
 }
+
+
+
 
 
 
