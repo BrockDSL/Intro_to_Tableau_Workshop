@@ -316,12 +316,10 @@ nav {
     list-style-image:none;
     font-size: 17px;
     line-height:24px;
-    overflow-y: scroll;
 
     li {
       padding: 5px 0px;
       line-height: 16px;
-      overflow-y: scroll;
       // padding-right:17px;
       // position:relative;
       // right:-12px;
@@ -359,30 +357,6 @@ nav {
     // }
   }
 }
-
-.navbar {
-  width: 230px;
-  position: fixed;
-  top: 220px;
-  left:50%;
-  margin-left:-580px;
-  text-align: right;
-  overflow-y: scroll;
-}
-
-/* Hide scrollbar for Chrome, Safari and Opera */
-.navbar::-webkit-scrollbar {
-    display: none;
-}
-
-/* Hide scrollbar for IE and Edge */
-.navbar {
-    -ms-overflow-style: none;
-}
-
-
-
-
 
 
 
