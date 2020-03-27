@@ -19,11 +19,12 @@
       <header>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+		<img src="dsl_logo.png" alt="DSL Logo" style="width:100%;height:100%;">
       </header>
 
       <div id="banner">
         <span id="logo"></span>
-		<img src="dsl_logo.png" alt="DSL Logo" style="width:100%;height:100%;">
+
         <a href="{{ site.github.repository_url }}" class="button fork"><strong style="color:#e5e5e5;">View On GitHub</strong></a>
         {% if site.show_downloads %}
           <div class="downloads">
@@ -38,6 +39,7 @@
 
     <div class="wrapper">
       <nav>
+		
         <ul></ul>
       </nav>
       <section>
