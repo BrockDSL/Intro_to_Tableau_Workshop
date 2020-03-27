@@ -303,14 +303,6 @@ small {
 }
 
 nav {
-  width: 230px;
-  position: fixed;
-  top: 220px;
-  left:50%;
-  margin-left:-580px;
-  text-align: right;
-  overflow:hidden;
-  overflow: scroll;
 
   ul {
     list-style: none;
@@ -360,15 +352,31 @@ nav {
 }
 
 
+
+
+.navbar {
+  width: 230px;
+  position: fixed;
+  top: 220px;
+  left:50%;
+  margin-left:-580px;
+  text-align: right;
+  overflow-y: scroll;
+}
+
 /* Hide scrollbar for Chrome, Safari and Opera */
-nav::-webkit-scrollbar {
+.navbar::-webkit-scrollbar {
     display: none;
 }
 
 /* Hide scrollbar for IE and Edge */
-nav {
+.navbar {
     -ms-overflow-style: none;
 }
+
+
+
+
 footer {
   width:180px;
   position: fixed;
