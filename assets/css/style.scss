@@ -309,14 +309,14 @@ nav {
   left:50%;
   margin-left:-580px;
   text-align: right;
+  overflow:hidden;
+  overflow: scroll;
 
   ul {
     list-style: none;
     list-style-image:none;
     font-size: 17px;
     line-height:24px;
-    overflow:hidden;
-    overflow: scroll;
 
     li {
       padding: 5px 0px;
@@ -359,6 +359,16 @@ nav {
   }
 }
 
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+nav::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE and Edge */
+nav {
+    -ms-overflow-style: none;
+}
 footer {
   width:180px;
   position: fixed;
