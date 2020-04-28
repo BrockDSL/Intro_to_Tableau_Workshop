@@ -39,14 +39,14 @@
     <div class="wrapper">
 	  <nav>
         <ul></ul>
-		<img src="dsl_logo.png" alt="DSL Logo" height="123" width="144" >
       </nav>
       <section>
         {{ content }}
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
+        <img src="dsl_logo.png" alt="DSL Logo" height="123" width="144" >
+		{% if site.github.is_project_page %}
           <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
       </footer>
