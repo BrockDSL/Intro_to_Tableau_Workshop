@@ -275,6 +275,14 @@ header {
     }
   }
 
+  #logo {
+    position:absolute;
+    height: 36px;
+    width: 36px;
+    right:7px;
+    top:7px;
+    display: block;
+    background: url(../images/octocat-logo.png);
   }
 }
 
